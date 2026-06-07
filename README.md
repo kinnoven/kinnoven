@@ -9,7 +9,6 @@ If you like what I do, I am open to collaborate on your projects!
 * Pixel art (Minecraft/Graphics)
 * Small C++ programs
 
-
 ### Contacts
 - [Instagram](https://instagram.com/@kinnoven_k)
 - [Discord](https://discord.com/users/1435849590627766283)
