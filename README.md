@@ -1,16 +1,17 @@
-## Hi there 👋
+## Kinno Code \\\ Kinnoven's Profile 🌙
 
-<!--
-**kinnoven/kinnoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I am a adventerous & curios mind who is yet adaptive to learn anything new. (and master with time) I love to work on personal projects to create unique work of art and learn about the amazing world of computers.
+If you like what I do, I am open to collaborate on your projects!
 
-Here are some ideas to get you started:
+### Skills
+* Frontend web development (HTML/CSS/JS)
+* Pixel art (Minecraft/Graphics)
+* Small C++ programs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contacts
+- [Instagram](https://instagram.com/@kinnoven_k)
+- [Discord](https://discord.com/users/1435849590627766283)
+
+<sup>last changed 6/7/2026.. o-0 its a concidence!</sup>
