@@ -6,9 +6,10 @@ If you like what I do, I am open to collaborate on your projects!
 
 ### Skills
 * Pixel art (Minecraft/Graphics)
+* Programming (C#, Python, Lua.. more soon!)
 * Frontend web development (HTML/CSS/JS)
 * Music compositon
-* Management 
+* Management
 
 ### Contacts
 - [Instagram](https://instagram.com/@kinnoven_k)
