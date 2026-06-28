@@ -29,20 +29,29 @@ If you like what I do, I am open to collaborate on your projects!
   <tr>
     <td>
       <a href="https://youtube.com/@kinnoven">
-        <img src="./icons/youtube.svg" height="25" width="25">
+        <img align=center src="./icons/youtube.svg" height="25" width="25">
       </a>
     </td>
     <td>Youtube Channel</td>
   </tr>
+  <tr>
+    <td><a href="https://instagram.com/kinnoven_">
+  <img align=center src="./icons/instagram.svg" height="25" width="25">
+</a></td>
+    <td>Instagram Profile</td>
+  </tr>
+  <tr>
+    <td><a href="https://discord.com/users/1435849590627766283">
+  <img align=center src="./icons/discord.svg" height="25" width="25">
+</a></td>
+    <td>Discord Server</td>
+  </tr>
+  <tr>
+    <td><a href="https://open.spotify.com/user/31xwgesjq5ztzbodzng6jysvpedi">
+  <img align=center src="./icons/spotify.svg" height="25" width="25"></a></td>
+    <td>Spotify Profile</td>
+  </tr>
 </table>
 
+
 <p></p>
-<a href="https://instagram.com/kinnoven_">
-  <img src="./icons/instagram.svg" height="25" width="25">
-</a><p>Instagram Profile</p>
-<a href="https://discord.com/users/1435849590627766283">
-  <img src="./icons/discord.svg" height="25" width="25">
-</a><p>Discord Server</p>
-<a href="https://open.spotify.com/user/31xwgesjq5ztzbodzng6jysvpedi">
-  <img src="./icons/spotify.svg" height="25" width="25">
-</a><p>Spotify Profile</p>
