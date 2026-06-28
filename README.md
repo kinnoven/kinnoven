@@ -37,7 +37,7 @@ If you like what I do, I am open to collaborate on your projects!
   <tr>
     <td>
       <a href="https://instagram.com/kinnoven_">
-        <img align=center src="./icons/instagram.svg" height="25" width="25">
+        <img align=center src="./icons/instagram_flat.svg" height="25" width="25">
       </a>
     </td>
     <td>Instagram Profile</td>
