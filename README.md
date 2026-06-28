@@ -1,6 +1,6 @@
 ## **Kinnoven's Profile** 🌙
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1435849590627766283?animatedDecoration=true&idleMessage=🌟%20Always%20creating)](https://discord.com/users/1435849590627766283)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1435849590627766283?animatedDecoration=true&idleMessage=ℹ️%20I%20am%20online%20every%20other%20day)](https://discord.com/users/1435849590627766283)
 
 ---
 
@@ -18,7 +18,9 @@ If you like what I do, I am open to collaborate on your projects!
 ### ▸ Tools & Languages 
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,py,blender,git,dotnet,cs,windows&theme=dark">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,vscode,html,css,py,cs,lua&theme=dark">
+<img src="https://skillicons.dev/icons?i=git,blender,dotnet,windows">
 </div>
 
 ---
