@@ -18,9 +18,7 @@ If you like what I do, I am open to collaborate on your projects!
 ### ▸ Tools & Languages 
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,js,vscode,html,css,py,cs,lua&theme=dark">
-<img src="https://skillicons.dev/icons?i=git,blender,dotnet,windows">
+<img src="https://skillicons.dev/icons?i=cpp,js,vscode,html,css,py,cs,lua,git,blender,dotnet,windows&theme=dark&perLine=8">
 </div>
 
 ---
@@ -61,3 +59,4 @@ If you like what I do, I am open to collaborate on your projects!
     <td>Spotify Profile</td>
   </tr>
 </table>
+<p align=right><sub>6/29/2026</sub></p>
