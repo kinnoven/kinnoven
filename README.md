@@ -60,4 +60,4 @@ If you like what I do, I am open to collaborate on your projects!
     <td>Spotify Profile</td>
   </tr>
 </table>
-<p align=right><sub>6/29/2026</sub></p>
+<p align=right><sub>Created with 💖 by me | 6/28/2026</sub></p>
