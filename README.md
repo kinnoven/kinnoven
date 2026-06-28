@@ -17,9 +17,10 @@ If you like what I do, I am open to collaborate on your projects!
 
 ### ▸ Tools & Languages 
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,js,vscode,html,css,py,cs,lua,git,blender,dotnet,windows&theme=dark&perLine=8">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,vscode,html,css,sass,jquery,cs,lua">
+  <img src="https://skillicons.dev/icons?i=git,cloudflare,visualstudio,dotnet,py,blender,windows">
+</p>
 
 ---
 
