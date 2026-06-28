@@ -1,6 +1,6 @@
 ## **Kinnoven's Profile** 🌙
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1435849590627766283)](https://discord.com/users/1435849590627766283)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1435849590627766283?animatedDecoration=true&idleMessage=🌟%20Always%20creating)](https://discord.com/users/1435849590627766283)
 
 ---
 
@@ -25,15 +25,17 @@ If you like what I do, I am open to collaborate on your projects!
 
 ### ▸Links
 
-<a href="https://youtube.com/@kinnoven">
-  <img src="./icons/youtube.svg" height="25" width="25">
-</a><p>Youtube Channel</p>
+<h3><a href="https://youtube.com/@kinnoven">
+  <img align=center src="./icons/youtube.svg" height="25" width="25">
+</a><p>Youtube Channel</p></h3>
+
+
 <a href="https://instagram.com/kinnoven_">
-  <img src="./icons/instagram.svg" height="25" width="25">
+  <img align=center src="./icons/instagram.svg" height="25" width="25">
 </a><p>Instagram Profile</p>
 <a href="https://discord.com/users/1435849590627766283">
-  <img src="./icons/discord.svg" height="25" width="25">
+  <img align=center src="./icons/discord.svg" height="25" width="25">
 </a><p>Discord Server</p>
 <a href="https://open.spotify.com/user/31xwgesjq5ztzbodzng6jysvpedi">
-  <img src="./icons/spotify.svg" height="25" width="25">
+  <img align=center src="./icons/spotify.svg" height="25" width="25">
 </a><p>Spotify Profile</p>
