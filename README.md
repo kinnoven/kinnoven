@@ -2,7 +2,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1435849590627766283?animatedDecoration=true&idleMessage=ℹ️%20I%20am%20online%20every%20other%20day)](https://discord.com/users/1435849590627766283)
 
----
+
 
 ### ▸About me
 I am a adventerous & curious mind who is yet adaptive to learn anything new. (and master with time) I love working on personal projects to create unique work of art and learn about the amazing world of computers.
@@ -13,16 +13,16 @@ If you like what I do, I am open to collaborate on your projects!
 * Music compositon 🎶
 * Management and Planning👀
 
----
 
-### ▸ Tools & Languages 
+
+### ▸Tools & Languages 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,vscode,html,css,sass,jquery,cs,lua">
+  <img src="https://skillicons.dev/icons?i=cpp,js,vscode,html,css,sass,jquery,cs,lua"><br>
   <img src="https://skillicons.dev/icons?i=git,cloudflare,visualstudio,dotnet,py,blender,windows">
 </p>
 
----
+
 
 ### ▸Links
 
