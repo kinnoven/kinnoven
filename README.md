@@ -23,7 +23,7 @@ I have many repos but I prefer to keep them private, so nobody would see my chil
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,cs,vscode,html,css,sass,jquery,lua"><br>
-  <img src="https://skillicons.dev/icons?i=git,cloudflare,visualstudio,dotnet,py,blender,windows">
+  <img src="https://skillicons.dev/icons?i=git,cloudflare,py,visualstudio,dotnet,blender,windows">
 </p>
 
 
