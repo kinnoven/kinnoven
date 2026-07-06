@@ -7,18 +7,22 @@
 ### ▸About me
 I am a adventerous & curious mind who is yet adaptive to learn anything new. (and master with time) I love working on personal projects to create unique work of art and learn about the amazing world of computers.
 If you like what I do, I am open to collaborate on your projects!
-* Digital art/Pixel art (Minecraft/Graphics) ⛏️
-* Programming (C#, Python, Lua.. more soon!) ⌨️
-* Frontend web development (HTML/CSS/JS/) 🌐
-* Music compositon 🎶
-* Management and Planning👀
+
+Here are my hobbies;
+* 🎮 Gaming (Minecraft!)
+* ⌨️ Coding, duh
+* 🎨 Digital Art
+* 🌐 Frontend web development 
+* 🎶 Music compositon (sometimes..)
+
+I have many repos but I prefer to keep them private, so nobody would see my childish code >-<
 
 
 
 ### ▸Tools & Languages 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,vscode,html,css,sass,jquery,cs,lua"><br>
+  <img src="https://skillicons.dev/icons?i=cpp,js,cs,vscode,html,css,sass,jquery,lua"><br>
   <img src="https://skillicons.dev/icons?i=git,cloudflare,visualstudio,dotnet,py,blender,windows">
 </p>
 
