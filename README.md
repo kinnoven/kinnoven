@@ -1,23 +1,15 @@
-##  <p align=center>بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ</p><p align=left>**Kinnoven's Profile** 🌙</p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1435849590627766283?animatedDecoration=true&idleMessage=ℹ️%20I%20am%20online%20every%20other%20day)](https://discord.com/users/1435849590627766283)
-
-
+##  <p align=center>لَا إِلَٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</p><p align=left></p>
 
 ### ▸About me
 I am a adventerous & curious mind who is yet adaptive to learn anything new. (and master with time) I love working on personal projects to create unique work of art and learn about the amazing world of computers.
 If you like what I do, I am open to collaborate on your projects!
 
-Here are my hobbies;
+Some of my hobbies;
 * 🎮 Gaming (Minecraft!)
 * ⌨️ Coding, duh
 * 🎨 Digital Art
 * 🌐 Frontend web development 
 * 🎶 Music compositon (sometimes..)
-
-I have many repos but I prefer to keep them private, so nobody would see my childish code >-<
-
-
 
 ### ▸Tools & Languages 
 
@@ -64,4 +56,7 @@ I have many repos but I prefer to keep them private, so nobody would see my chil
     <td>Spotify Profile</td>
   </tr>
 </table>
-<p align=right><sub>Created with 💖 by me | 6/28/2026</sub></p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1435849590627766283?animatedDecoration=true&idleMessage=ℹ️%20I%20am%20online%20every%20other%20day)](https://discord.com/users/1435849590627766283)
+
+<p align=right><sub>Created with 💖 by me | 2026-7-10</sub></p>
