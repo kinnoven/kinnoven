@@ -1,6 +1,6 @@
 ##  <p align=center>لَا إِلَٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</p><p align=left></p>
 
-### ▸About me
+### ▸ About me
 I am a adventerous & curious mind who is yet adaptive to learn anything new. (and master with time) I love working on personal projects to create unique work of art and learn about the amazing world of computers.
 If you like what I do, I am open to collaborate on your projects!
 
@@ -11,7 +11,7 @@ Some of my hobbies;
 * 🌐 Frontend web development 
 * 🎶 Music compositon (sometimes..)
 
-### ▸Tools & Languages 
+### ▸ Tools & Languages 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,py,cpp,vscode,html,css,sass,jquery,lua"><br>
@@ -20,7 +20,7 @@ Some of my hobbies;
 
 
 
-### ▸Links
+### ▸ Links
 
 <table>
   <tr>
