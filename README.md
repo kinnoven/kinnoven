@@ -1,8 +1,8 @@
 ##  <p align=center>لَا إِلَٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</p><p align=left></p>
 
 ### ▸ About me
-I am a adventerous & curious mind who is yet adaptive to learn anything new. (and master with time) I love working on personal projects to create unique work of art and learn about the amazing world of computers.
-If you like what I do, I am open to collaborate on your projects!
+I am adventerous & always curious, who is yet adaptive to learn anything new (and master with time). I love working on my personal projects to create unique work of art. I also like learning about the amazing world of programming.
+If you're wondering where are my contributions are coming from well.. I have many private repos!
 
 Some of my hobbies;
 * 🎮 Gaming (Minecraft!)
