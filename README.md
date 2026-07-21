@@ -41,19 +41,19 @@ Some of my hobbies;
   </tr>
   <tr>
     <td>
-      <a href="https://discord.com/users/1435849590627766283">
-        <img align=center src="./icons/discord.svg" height="25" width="25">
-      </a>
-    </td>
-    <td>Discord Server</td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://open.spotify.com/user/31xwgesjq5ztzbodzng6jysvpedi">
         <img align=center src="./icons/spotify.svg" height="25" width="25">
       </a>
     </td>
     <td>Spotify Profile</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://discord.com/users/1435849590627766283">
+        <img align=center src="./icons/discord.svg" height="25" width="25">
+      </a>
+    </td>
+    <td>Discord Server</td>
   </tr>
 </table>
 
