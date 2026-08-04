@@ -14,8 +14,8 @@ Some of my hobbies;
 ### ▸ Tools & Languages 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,vscode,html,css,sass,jquery,lua"><br>
-  <img src="https://skillicons.dev/icons?i=git,cloudflare,visualstudio,cs,dotnet,blender,windows">
+  <img src="https://skillicons.dev/icons?i=js,cpp,py,html,css,vscode,blender,sass,jquery"><br>
+  <img src="https://skillicons.dev/icons?i=git,cloudflare,visualstudio,cs,dotnet,lua,windows">
 </p>
 
 
