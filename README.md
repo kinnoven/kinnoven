@@ -1,26 +1,16 @@
-##  <p align=center>لَا إِلَٰهَ إِلَّا ٱللَّٰهُ مُحَمَّدٌ رَسُولُ ٱللَّٰهِ</p><p align=left></p>
+## <p align=center></p>
 
 ### ▸ About me
-I am adventerous & always curious, who is yet adaptive to learn anything new (and master with time). I love working on my personal projects to create unique work of art. I also like learning about the amazing world of programming.
-If you're wondering where are my contributions are coming from well.. I have many private repos!
+⚠️ UNDER OVER THINKING ⚠️
 
-Some of my hobbies;
-* 🎮 Gaming (Minecraft!)
-* ⌨️ Coding, duh
-* 🎨 Digital Art
-* 🌐 Frontend web development 
-* 🎶 Music compositon (sometimes..)
-
-### ▸ Tools & Languages 
+### ▸ Cool stuff I know how to use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp,py,html,css,vscode,blender,sass,jquery"><br>
   <img src="https://skillicons.dev/icons?i=git,cloudflare,visualstudio,cs,dotnet,lua,windows">
 </p>
 
-
-
-### ▸ Links
+### ▸ Social links
 
 <table>
   <tr>
@@ -57,6 +47,6 @@ Some of my hobbies;
   </tr>
 </table>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1435849590627766283?animatedDecoration=true&idleMessage=ℹ️%20I%20am%20online%20every%20other%20day)](https://discord.com/users/1435849590627766283)
+<sub>Hopefully you found the typo ;)</sub>
 
-<p align=right><sub>Created with 💖 by me | 2026-7-22</sub></p>
+<p align=right><sub>Created with 💖 & effort | 2026-08-05</sub></p>
