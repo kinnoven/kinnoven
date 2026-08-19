@@ -1,11 +1,12 @@
-## <p align=center>A center text</p>
+## <p align=center>ٱلسَّلَامُ عَلَيْكُمْ</p>
 
 <!-- ACHIEVEMENT UNLOCKED: What are you doing here? -->
 ### ▸ About me
-⚠️ UNDER OVERTHINKING ⚠️
+I am Kinnoven, aka Kinno. I have 2 years of JavaScript experience and studying C++. Sometimes I compose music and do graphics art.<br>
+Check it out YouTube channel below ↓
 
 <!-- I only add things where I know what I'm doing -->
-### ▸ Cool stuff I know how to use 
+### ▸ Work Tools & Lang
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp,py,html,css,vscode,blender,sass,jquery"><br>
@@ -13,9 +14,9 @@
 </p>
 
 
-### ▸ Social links
+### ▸ Social Links <a name="link-1"></a>
 
-<!-- If you look at it sideways it looks like an architecture piece -->
+<!-- If you look at it sideways it looks like an architectural piece -->
 <table>
   <tr>
     <td>
@@ -51,4 +52,4 @@
   </tr>
 </table> 
 
-<p align=right><sub>Created with 💖 & effort | 2026-08-05</sub></p> <!-- This date means last updated -->
+<p align=right><sub>Created with 💖 & effort | 2026-08-19</sub></p> <!-- This date means last updated -->
