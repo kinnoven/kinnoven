@@ -3,7 +3,7 @@
 <!-- ACHIEVEMENT UNLOCKED: What are you doing here? -->
 ### ▸ About me
 I am Kinnoven, aka Kinno. I have 2 years of JavaScript experience and studying C++. Sometimes I compose music and do graphics art.<br>
-Check it out YouTube channel below ↓
+Check out my YouTube channel down below ↓
 
 <!-- I only add things where I know what I'm doing -->
 ### ▸ Work Tools & Lang
