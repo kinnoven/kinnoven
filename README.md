@@ -2,7 +2,7 @@
 
 <!-- ACHIEVEMENT UNLOCKED: What are you doing here? -->
 ### ▸ 📝 About me
-I am Kinnoven, aka Kinno. I have 2 years of JavaScript experience and studying C++. Sometimes I compose music and do graphics art.<br>
+Hi! I am Kinnoven, aka Kinno. I have 2 years of JavaScript and literally 1 month of C++ experience, currently studying it. Sometimes I compose music and do graphics art.<br>
 Check out my YouTube channel down below ↓
 
 Stats | Value
