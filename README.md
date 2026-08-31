@@ -11,7 +11,7 @@ Repositories | 13+
 Games Played | 80+?
 Time Alive | :>
 Fun Number | 71
-Last Deer seen | 0y 4m
+Last Deer seen | 1y 4m
 
 <!-- I only add things where I know what I'm doing -->
 ### ▸ 🖥️ Tools & Lang 
@@ -59,4 +59,4 @@ Last Deer seen | 0y 4m
   </tr>
 </table> 
 
-<p align=right><sub>Created with 🧠 | 2026-08-19</sub></p> <!-- This date means last updated -->
+<p align=right><sub>Created with ⭐ | 2026-08-31</sub></p> <!-- This date means last updated -->
