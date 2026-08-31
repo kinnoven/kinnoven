@@ -5,8 +5,16 @@
 I am Kinnoven, aka Kinno. I have 2 years of JavaScript experience and studying C++. Sometimes I compose music and do graphics art.<br>
 Check out my YouTube channel down below ↓
 
+Stats | Value
+-- | -
+Repositories | 13+
+Games Played | 80+?
+Time Alive | :>
+Fun Number | 71
+Last Deer seen | 0y 4m
+
 <!-- I only add things where I know what I'm doing -->
-### ▸ 🖥️ Work Tools & Lang 
+### ▸ 🖥️ Tools & Lang 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp,py,html,css,vscode,blender,sass,jquery"><br>
